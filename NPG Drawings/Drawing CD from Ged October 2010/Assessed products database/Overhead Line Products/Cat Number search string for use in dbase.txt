@@ -1,0 +1,3 @@
+http://mwapps2/inventory/Comm_Search.asp?Req=231477
+
+To use this procedure replace the cat number above with the required cat number.
