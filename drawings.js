@@ -18,7 +18,7 @@ var drawingData = {
         , "Module 5 - Pole Marking Rev 11 Dec 2024.pdf" 
         , "Module 6 - Bleeding Poles Rev 4 June 2023.pdf" 
         , "QTG116 - Pole Fabrication Checklist Rev 13 Oct 2025.pdf" 
-        , "QTG119 - Fabrication of Contractor Poles.pdf" 
+        , "QTG119 - Fabrication of Contractor Poles Rev 10 Sep 2026.pdf" 
 ]      , 
     "4 Customer Specs": [ 
           "ANSI+O5.1-2022.pdf" 
